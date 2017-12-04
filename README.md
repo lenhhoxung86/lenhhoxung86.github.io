@@ -1,2 +1,1 @@
-# bekou.github.io
-website
+[bekou.github.io](https://bekou.github.io/)
