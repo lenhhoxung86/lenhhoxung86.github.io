@@ -46,12 +46,26 @@ p {
 	color: #444;
 }
 
-a:link {
+a.one:link {
     color: #003581;
     text-decoration: none;
 }
 
-a:hover {
+a.one:hover {
+    color: #cf8a05;
+    text-decoration: underline;
+}
+
+a.two:link {
+    color: #cf8a05 ;
+    text-decoration: none;
+}
+a.two:visited {
+    color: #cf8a05 ;
+    text-decoration: none;
+}
+
+a.two:hover {
     color: #cf8a05;
     text-decoration: underline;
 }
